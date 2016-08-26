@@ -1,0 +1,30 @@
+.fcabez{
+	background-image: url('../image/large.jpg');
+	height: auto;
+	width: 100%;
+}
+.fopaco{
+	background: rgba(0,0,0,0.6);	
+	height: auto;
+	width: 100%;
+}
+.fopacoaz{
+	background: rgba(82,128,186,0.6);	
+	height: auto;
+	width: auto;
+}
+.pd5{
+	padding: 5%;
+}
+.pd3{
+	padding: 3%;
+}
+.txbco{
+	color: white;
+}
+.mtop{
+	margin-top: 7%;
+}
+.mbtm{
+	margin-bottom: 5%;
+}
