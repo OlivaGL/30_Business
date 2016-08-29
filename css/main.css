@@ -40,6 +40,9 @@
 .iconogde{
 	font-size: 3em;
 }
+.iconoch{
+	font-size: 2em;
+}
 .separator{
 	position: absolute;
     left: 45%;
@@ -82,4 +85,14 @@ h5{
 }
 h4{
 	font-weight: bold;
+}
+.ffooter{
+	background-color: #2A3541;
+}
+div.row{
+	margin-right: 0;
+	margin-left: 0;
+}
+ul{
+	list-style-type: none;
 }
