@@ -25,6 +25,61 @@
 .mtop{
 	margin-top: 7%;
 }
+.mtop3{
+	margin-top: 3%;
+}
 .mbtm{
 	margin-bottom: 5%;
+}
+.mbtm3{
+	margin-bottom: 3%;
+}
+.txblue{
+	color:#68AFFF;
+}
+.iconogde{
+	font-size: 3em;
+}
+.separator{
+	position: absolute;
+    left: 45%;
+    top: 50%;
+    transform: translateY(-40%);    
+}
+hr{
+	margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+.user360{
+	width: 260px;
+    height: auto;
+    margin-top: -1%;
+    display: inline-block;
+    position: relative;
+	vertical-align: center;
+}
+iframe{
+	width: 100%;
+}
+.fmesa{
+	background-image: url('../image/sec-2.jpg');
+	height: 450px;
+	width: 50%;
+	margin: 0%;
+	padding: 0%;
+}
+.ficonazul{
+	background-color: #50BDEA;
+}
+#trabajo{
+	width: 30px;
+	height: 30px;
+}
+h5{
+	font-size: 18px;
+}
+h4{
+	font-weight: bold;
 }
